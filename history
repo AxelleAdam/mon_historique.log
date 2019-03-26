@@ -1,0 +1,34 @@
+ 875  cat instructions
+  876  cd mystery
+  877  grep "CLUE" crimescene
+  878  grep "Annabel" people
+  879  head -n 40 streets/Hart Place | tail -n 1
+  880  head -n 40 streets/Hart_Place | tail -n 1
+  881  cd interviews
+  882  cat interview #47246024
+  883  cat interview-#47246024
+  884  cat interview-47246024
+  885  cd ..
+  886  head -n 179 streets/Buckingham_Place | -n 1
+  887  head -n 179 streets/Buckingham_Place | tail -n 1
+  888  cd interviews
+  889  cat interview-699607
+  890  cd ..
+  891  grep "L337"
+  892  grep "L337/" vehicles
+  893  grep "L337" vehicles
+  894  grep "blue|honda|L337/" vehicles
+  895  egrep "blue|honda|L337/" vehicles
+  896  egrep "blue|Honda|L337/" vehicles
+  897  head vehicles
+  898  grep -A 5 "L337" vehicules
+  899  grep -A 5 "L337" vehicles
+  900  cd membership
+  901  cd memberships
+  902  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jeremy Bowers"
+  903  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Joe Germuska"
+  904  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History | grep "Jacqui Maher"
+  905  cd ..
+  906  grep "Jeremy Bowers" people
+  907  echo "Le meurtrier est Jeremy Bowers"
+  908  history
